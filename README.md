@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oii! Prazer meu nome é Marcelo Fortino, Futuro Desenvolvedor de software! 👋
 
-<!--
-**MarceloFortino/MarceloFortino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🚀 Atualmente estou estudando: JavasScript, PHP e C#
+- 💼 Atualmente em meus projetos utilizo as linguagens: HTML, CSS e Lua
 
-Here are some ideas to get you started:
+- Você pode saber mais sobre mim no meu site > **EM DESENVOLVIMENTO**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/MarceloFortino">
+<img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieirasStore&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieirasStore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![snake gif](https://github.com/VieirasStore/VieirasStore/blob/output/github-contribution-grid-snake.svg)
