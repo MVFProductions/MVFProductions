@@ -11,4 +11,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFortino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/MarceloFortino/MarceloFortino/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/MarceloFortino/MarceloFortino/blob/output/github-contribution-grid-snake.svg)
