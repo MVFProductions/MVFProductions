@@ -3,8 +3,6 @@
 - 👨‍🚀 Atualmente estou estudando: JavasScript, PHP e C#
 - 💼 Atualmente em meus projetos utilizo as linguagens: HTML, CSS, Lua e Python
 
-- Você pode saber mais sobre mim no meu site > **EM DESENVOLVIMENTO**
-
 <div>
 <a href="https://github.com/MarceloFortino">
 <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFortino&layout=compact&langs_count=7&theme=dracula"/>
