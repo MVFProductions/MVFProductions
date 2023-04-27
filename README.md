@@ -1,7 +1,7 @@
 ### Oii! Prazer meu nome é Marcelo Fortino, Futuro Desenvolvedor de software! 👋
 
-- 👨‍🚀 Atualmente estou estudando: JavasScript, PHP e C#
-- 💼 Atualmente em meus projetos utilizo as linguagens: HTML, CSS, Lua e Python
+- 👨‍🚀 Atualmente estou estudando: Python, PHP e C#
+- 💼 Atualmente em meus projetos utilizo as linguagens: HTML, CSS, Lua
 
 <div>
 <a href="https://github.com/MarceloFortino">
